@@ -1,6 +1,5 @@
 '''
-(5)=> Write a program to use class method to handle the common feature of all 
-the instances created for a class.
+(5)=> Write a program to use class method to handle the common feature of all the instance created for a class.
 '''
 
 

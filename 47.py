@@ -2,7 +2,7 @@
 (7)=>Create a Bank class with two variables name and
 balance. Implement a constructor to initialize the
 variables. Also implement deposit and withdrawals
-using instance methods
+using instance methods.
 '''
 
 
